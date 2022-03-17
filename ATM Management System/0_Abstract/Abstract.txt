@@ -1,0 +1,7 @@
+Automated Teller Machine (ATM) is an electronic telecommunications device,
+which enables customers to perform banking without the need for direct interaction 
+with bank staff. For this, every account holder must have a unique id card for
+the individual account having a unique pin. On the absence of this card,
+whatever be the adverse situation the use of this ATM service is not permitted.We can withdrawl Amount 
+from the ATM by using Correct pin.
+ 
